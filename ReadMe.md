@@ -17,13 +17,14 @@ I'm Full-Stack developer💻 & Mobile App developer📱 & UI/UX designers🖥️
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=SardarHossaini&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SardarHossaini&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SardarHossaini&theme=dark&hide_border=false)<br/>
+<p align="center">
+  <img height="150em" src="https://streak-stats.demolab.com?user=SardarHossaini&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SardarHossaini&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=SardarHossaini&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SardarHossaini&bg_color=0f172a&color=06b6d4&line=22d3ee&point=06b6d4&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
 ### 🔝 Top Contributed Repo
 
