@@ -99,8 +99,4 @@ Full-Stack Developer | Mobile App Developer | UI/UX Designer
 - Every project is an opportunity  
 - Every line of code matters  
 
----
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=020617&height=160&section=footer&text=Full%20Stack%20Developer%20with%20Purpose&fontSize=28&fontColor=22D3EE&animation=fadeIn" />
-</p>
