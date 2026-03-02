@@ -30,14 +30,25 @@ Full-Stack Developer | Mobile App Developer | UI/UX Designer
 
 ### 🖥️ Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,vite&theme=dark" />
+  <img src="https://cdn.simpleicons.org/axios/5A29E4" width="40" />
+  <img src="https://cdn.simpleicons.org/reacthookform/EC5990" width="40" />
+  <img src="https://cdn.simpleicons.org/shadcnui/ffffff" width="40" />
+  <img src="https://cdn.simpleicons.org/zod/3E67B1" width="40" />
 </p>
 
 ---
 
 ### ⚙️ Backend
-<p align="">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,mysql&theme=dark" />
+
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,mysql,postgres,prisma&theme=dark" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/RESTful%20APIs-0f172a?style=for-the-badge&logo=fastapi&logoColor=22d3ee" />
+  <img src="https://img.shields.io/badge/Authentication-0f172a?style=for-the-badge&logo=auth0&logoColor=22d3ee" />
 </p>
 
 ---
@@ -59,7 +70,7 @@ Full-Stack Developer | Mobile App Developer | UI/UX Designer
 
 ### 🔧 Tools & Platforms
 <p align="">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,netlify,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,netlify,vscode,vercel&theme=dark" />
 </p>
 
 ---
