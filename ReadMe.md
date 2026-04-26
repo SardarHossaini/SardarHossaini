@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/SardarHossaini/SardarHossaini/blob/master/Linkedin%20banner%20cover.jpg" />
+  <img src="https://github.com/SardarHossaini/SardarHossaini/blob/master/new-banner.png" />
 </div>
 
 <h1 align="center" style="color:#E5E7EB;">Hi 👋, I'm Sardar Hossaini</h1>
