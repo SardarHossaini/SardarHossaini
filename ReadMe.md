@@ -55,7 +55,7 @@ Full-Stack Developer | Mobile App Developer | UI/UX Designer
 
 ### 📱 Mobile Development
 <p align="">
-  <img src="https://skillicons.dev/icons?i=dart,flutter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,sqlite&theme=dark" />
 </p>
 
 ---
