@@ -23,6 +23,8 @@ Full-Stack Developer | Mobile App Developer | UI/UX Designer
 - 🧩 Passionate about solving real-world problems  
 - 🚀 Goal: Build scalable, secure, production-ready systems  
 - 🏆 ICPC Competitor (4th — 2023) | (7th — 2024)
+  
+  ![](https://komarev.com/ghpvc/?username=SardarHossaini&label=Profile+Views&color=0e75b6&style=flat)
 
 ---
 
